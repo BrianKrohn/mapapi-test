@@ -1,0 +1,19 @@
+{
+  "name": "mapapi-test",
+  "version": "1.0.0",
+  "description": "Bing Maps API Test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrianKrohn/mapapi-test"
+  },
+  "author": "Brian Krohn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrianKrohn/mapapi-test/issues"
+  },
+  "homepage": "https://github.com/BrianKrohn/mapapi-test#readme"
+}
